@@ -77,6 +77,9 @@ footer ul li{
    padding: 10px;
    font-size: 20px;
 }
+footer ul li a{
+    text-align: center;
+}
 footer{
     text-align: center;
     background-color: rgb(34, 31, 31);
