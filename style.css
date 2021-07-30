@@ -47,7 +47,7 @@ p{
 }
 .table_center {
     margin: 20px auto;
-    font-size: 10px;
+    font-size: 20px;
 }
 .table_center td,
 th {
@@ -88,7 +88,7 @@ footer {
     width: 100%;
     font-size: 20px;
     padding-top: 20px;
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     color: white;
