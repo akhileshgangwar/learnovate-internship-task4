@@ -47,7 +47,7 @@ p{
 }
 .table_center {
     margin: 20px auto;
-    font-size: 1px;
+    font-size: 10px;
 }
 .table_center td,
 th {
@@ -66,7 +66,7 @@ th {
     display: flex;
     justify-content: space-between;
     font-size: 20px;
-    margin: 20px 20px;
+    margin: 20px 0px 100px  0px;
     
     
 }
