@@ -85,6 +85,7 @@ footer{
     background-color: rgb(34, 31, 31);
     color: white;
     padding: 10px 0px;
+    width: 100%;
 }
 footer a{
     color: white;
