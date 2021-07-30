@@ -53,6 +53,7 @@ th {
     border: 2px solid black;
     padding: 5px 0;
     text-align: center;
+    margin: 0px;
 }
 .list {
     margin-top: 20px;
@@ -85,7 +86,7 @@ footer {
     background-color: black;
     width: 100%;
     font-size: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
     position: fixed;
     left: 0;
     bottom: 0;
