@@ -5,6 +5,7 @@
 font-family: 'Montserrat', sans-serif;
 /* font-weight: bold; */
 }
+
 body{
     background: #00F260;  
     background: -webkit-linear-gradient(to right, #0575E6, #00F260);  
@@ -43,6 +44,7 @@ a{
 }
 p{
     padding-left: 20px;
+    font-size: 20px;
 }
 .table_center {
     margin: 20px auto;
