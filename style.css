@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 font-family: 'Montserrat', sans-serif;
-/* font-weight: bold; */
+
 }
 body{
     background: #00F260;  
@@ -47,6 +47,7 @@ p{
 }
 .table_center {
     margin: 20px auto;
+    font-size: 10px;
 }
 .table_center td,
 th {
@@ -54,7 +55,6 @@ th {
     padding: 5px 0;
     text-align: center;
     margin: 0px;
-    font-size: 100px;
 }
 .list {
     margin-top: 20px;
