@@ -63,11 +63,16 @@ th {
     display: flex;
     justify-content: space-between;
     font-size: 20px;
-    margin: 20px 20px;
+    margin: 20px 0px;
     
     
 }
 .name{
     margin-right: 20px;
     margin-left: 50px;
+}
+
+footer{
+    background-color: rgb(63, 59, 59);
+    width: 100%;
 }
